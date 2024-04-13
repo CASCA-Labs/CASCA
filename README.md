@@ -20,7 +20,7 @@ We will review your request and grant or deny access within 24 hours. Thank you.
 
 1. Clone repo
 ```bash
-  git clone https://github.com/will-nehrboss/CASCA.git
+  git clone https://github.com/CASCA_Labs/CASCA_Source.git
   cd CASCA
 ```
 2. Create venv and install dependencies:
