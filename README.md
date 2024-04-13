@@ -91,18 +91,11 @@ If you use CASCA for your research or if you refer to this repository in your wo
 ```plaintext
 @inproceedings{nehrboss2024casca,
   title={CASCA: A General Framework for Leveraging Speaker Role Information in Speech Diarization},
-  author={Nehrboss, Will},
   booktitle={Interspeech 2024},
   year={2024},
   organization={CASCA Labs}
 }
 ```
-
-## Authors
-
-- [@will-nehrboss](https://www.github.com/will-nehrboss)
-
-
 
 ## Acknowledgements
 
