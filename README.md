@@ -1,19 +1,20 @@
-#Access
-<div style="background-color: #f2f2f2; border: 1px solid #cccccc; padding: 10px; border-radius: 5px;">
-    <h2>CASCA Access Request</h2>
-    <p>This repository is private and requires access approval. Please request access.</p>
-    
-    <h3>Request Access</h3>
-    <p>Please fill out the form at the following link to request access:</p>
-    <a href="https://forms.gle/o24kTRv8TmWArpos6">Request Access Form</a>
+# CASCA Access Request
 
-    <h3>Process</h3>
-    <p>We will review your request and grant or deny access within 24 hours. Thank you.</p>
-</div>
+This repository is private and requires access approval. Please request access.
 
+## Request Access
 
+Please fill out the form at the following link to request access:
+[Request Access Form](https://forms.gle/o24kTRv8TmWArpos6)
 
-# CASCA
+## Process
+
+We will review your request and grant or deny access within 24 hours. Thank you.
+
+# About CASCA
+
+**CASCA - Context Aware Speech Classification Architecture** - is an integrated speech diarization system that uses role information to facilitate turn-level speaker assignment. CASCA is versatile, requiring no prior information of speaker identities, and robust, applicable even in cases of weak speaker role differentiation. Currently, diarization is limited to conversations of two speakers.
+
 
 CASCA - Context Aware Speech Classification Architecture - is an integrated speech diairization system that uses role information to facilitate turn-level speaker assignment. CASCA is versitile, requiring no a-priori information of speaker identities, and robust, applicable even in cases of weak speaker role differentiation. Currently, diarization is limited to conversations of two speakers.
 
