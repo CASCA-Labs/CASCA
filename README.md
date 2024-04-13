@@ -89,7 +89,7 @@ Run
 If you use CASCA for your research or if you refer to this repository in your work, please cite it using the following format:
 
 ```plaintext
-@inproceedings{nehrboss2024casca,
+@inproceedings{2024casca,
   title={CASCA: A General Framework for Leveraging Speaker Role Information in Speech Diarization},
   booktitle={Interspeech 2024},
   year={2024},
