@@ -16,9 +16,6 @@ We will review your request and grant or deny access within 24 hours. Thank you.
 **CASCA - Context Aware Speech Classification Architecture** - is an integrated speech diarization system that uses role information to facilitate turn-level speaker assignment. CASCA is versatile, requiring no prior information of speaker identities, and robust, applicable even in cases of weak speaker role differentiation. Currently, diarization is limited to conversations of two speakers.
 
 
-CASCA - Context Aware Speech Classification Architecture - is an integrated speech diairization system that uses role information to facilitate turn-level speaker assignment. CASCA is versitile, requiring no a-priori information of speaker identities, and robust, applicable even in cases of weak speaker role differentiation. Currently, diarization is limited to conversations of two speakers.
-
-
 ## Installation
 
 1. Clone repo
