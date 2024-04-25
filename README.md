@@ -1,6 +1,8 @@
 # CASCA Access Request
 
-This repository is private and requires access approval. Please request access.
+At the moment, this repository is private and requires access approval. Please request access. 
+
+This repository will be made public soon. If acess is not granted, please check back. 
 
 ## Request Access
 
